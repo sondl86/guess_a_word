@@ -1,0 +1,22 @@
+#start{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 10px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    font-size: 1.25rem;
+
+    button {
+        margin: 0.75rem 0.75rem;
+        padding: 0.5rem 0.5rem;
+        font-size: 1.25rem;
+        letter-spacing: 0.2rem;
+    }
+}
+
+#bear img{
+    margin-left: 5rem;
+    border: 2px solid white;
+    border-radius: 20px;
+}

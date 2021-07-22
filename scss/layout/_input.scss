@@ -1,0 +1,51 @@
+.input {
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+        align-items: center;
+        justify-content:flex-start;
+
+    .form {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content:start;
+        margin: 2rem;
+        
+        label{
+            color: $font-color;
+            width: 8rem;
+            font-size: 1rem;
+        }
+        
+        .input__text {
+            border:2px solid $bordercolor;
+            border-radius: 500px;
+            margin-right: 0.25rem;
+            background-color: $button-color;
+            color: $font-color;
+            font-size: 2rem;
+            text-align: center;
+            padding: 0.75rem 0 0.75rem 0.75rem;
+            outline: none;
+            max-width: 3rem;
+        }
+
+        .input__button {
+            border:2px solid $bordercolor;
+            box-shadow: 4px 2px 5px $shadow-color;
+        }
+        
+        .input__button:focus-within,
+        .input__button:hover {
+            box-shadow: 4px 2px 5px $text-shadow-color;  
+        }
+
+        
+    }
+
+    #error__box{
+        font-size: 0.8rem;
+    }
+
+}

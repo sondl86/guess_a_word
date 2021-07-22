@@ -1,0 +1,22 @@
+#infobox{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content:space-around;
+}
+
+#win_loose_info{
+    width: 300px;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+  
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+

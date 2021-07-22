@@ -1,0 +1,6 @@
+.word__line {
+    flex-grow: 1;
+    @include flexCenter;
+    justify-content: space-around;
+   padding: 2.5rem 0.25rem;
+}

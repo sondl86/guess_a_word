@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+</style>
+<g id="background">
+	
+		<image style="overflow:visible;enable-background:new    ;" width="4000" height="6000" xlink:href="default_letters.jpg"  transform="matrix(0.1488 0 0 0.1403 0 -1.464844e-05)">
+	</image>
+</g>
+<g id="hangman1">
+	<path class="st0" d="M44.4,760.4c0-136.3,49.1-246.7,109.8-246.7"/>
+	<path class="st0" d="M264,760.4c0-136.3-49.1-246.7-109.8-246.7"/>
+</g>
+</svg>
