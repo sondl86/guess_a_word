@@ -1,4 +1,4 @@
-# guess_a_word
+# Guess a word - Game
 
 On of my first app, created with PHP, JavaScript, SCSS and MySql.
 
