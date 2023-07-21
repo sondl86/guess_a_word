@@ -1,6 +1,6 @@
 # Guess a word - Game
 
-On of my first app, created with PHP, JavaScript, SCSS and MySql.
+One of my first app, created with PHP, JavaScript, SCSS and MySql.
 
 (Connects Database, accesses and styles via DOM elements and gets data from an recipe API)
 
